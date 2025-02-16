@@ -1,6 +1,8 @@
 # np.reg.test
 Nonparametric tests of regression coefficients Use np.reg.test (nptest) With (In) R Software
 
+https://www.youtube.com/watch?v=rCeUOfoAthg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
